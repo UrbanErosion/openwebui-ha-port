@@ -20,4 +20,4 @@ map:
   - share
 environment:
   DATA_DIR: /data
-image: ghcr.io/open-webui/open-webui
+image: ghcr.io/open-webui/open-webui:v0.11.0
